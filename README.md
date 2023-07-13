@@ -1,5 +1,5 @@
 # MSP430-Motion-Detector
-A motion detector using MSP430 microcontroller 
+A motion detector using MSP430 microcontroller, code on energia
 
 # Problem Statement
 To detect the motion of objects through IR rays emitted by the PIR Sensor and causing a sound using buzzer, lighting up an LED upon the detection of motion
