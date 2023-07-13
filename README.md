@@ -21,6 +21,9 @@ E) Breadboard
 
 F) Jumper wires
 
+# PIR Sensor
+![image](https://github.com/KarthikT23/MSP430-Motion-Detector/assets/119528503/dcd8c4d8-3e94-45b3-aea5-6d8b8d5e0eeb)
+
 # Circuitry
 The VCC and GND pins of module is connected to VCC and GND pins of MSP430. The output pin of module is connected to 8th pin (P2.0) of MSP430. Although any pin can be used but you have to state the mode of the pin as input. The 6th pin (P1.4) is connected to LED and buzzer.
 
