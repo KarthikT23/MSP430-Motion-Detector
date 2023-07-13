@@ -35,5 +35,19 @@ The VCC and GND pins of module is connected to VCC and GND pins of MSP430. The o
 # Setup
 ![image](https://github.com/KarthikT23/MSP430-Motion-Detector/assets/119528503/0f024f32-600a-4234-b9ff-ac6067b2ff40)
 
+# References
+•	https://circuitdigest.com/microcontroller-projects/arduino-motion-detector-using-msp430-launchpad-and-pir-sensor
+
+•	https://microcontrollerslab.com/motion-sensor-interfacing-msp430g2-launchpad/
+
+•	https://www.researchgate.net/publication/242733396_Implementation_of_a_Motion_Detection_System
+
+•	https://www.azosensors.com/article.aspx?ArticleID=382
+
+•	https://components101.com/microcontrollers/msp430-launchpad-pinout-datasheet
+
+•	https://www.ti.com/lit/ug/slau772a/slau772a.pdf?ts=1655882562508&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+•	https://www.electronicwings.com/ti-launchpad/pir-sensor-interfacing-with-msp-exp430g2-ti-launchpad 
 
 
